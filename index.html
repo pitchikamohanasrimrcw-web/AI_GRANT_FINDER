@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI Grant & Funding Finder</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header>
+        <h1>AI Grant & Funding Finder</h1>
+        <p>
+            Built using IBM watsonx Orchestrate and IBM Granite Models
+        </p>
+    </header>
+
+    <section class="hero">
+
+        <div class="card">
+            <h2>Funding Discovery</h2>
+            <p>
+                Find startup grants, investors, incubators,
+                and accelerator programs easily.
+            </p>
+        </div>
+
+        <div class="card">
+            <h2>Eligibility Analysis</h2>
+            <p>
+                Analyze startup eligibility for funding
+                opportunities automatically.
+            </p>
+        </div>
+
+        <div class="card">
+            <h2>Proposal Generator</h2>
+            <p>
+                Generate AI-powered proposal summaries
+                using IBM Granite models.
+            </p>
+        </div>
+
+    </section>
+
+    <section class="demo">
+
+        <h2>Try AI Funding Search</h2>
+
+        <input type="text" id="query"
+            placeholder="Enter startup domain...">
+
+        <button onclick="showResult()">
+            Find Funding
+        </button>
+
+        <div id="result"></div>
+
+    </section>
+
+    <footer>
+        <p>
+            © 2026 AI Grant Finder | IBM Agentic AI Project
+        </p>
+    </footer>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
