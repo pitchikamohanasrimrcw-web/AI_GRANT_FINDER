@@ -1,9 +1,0 @@
-Problem Statement
-
-It can sometimes be hard and time consuming for many start-ups to find the right funding opportunity. There are many grants, government schemes, investor programs and startup competitions listed in various websites, and it is difficult for the startup founders to come up with the search result. Every platform has its own format, requirements, application process and deadlines and there is a risk of missing out on useful opportunities.
-
-Most startups, particularly those in the early phases, don't have the time and resources to conduct in-depth research on the funding options available. They also find it difficult to grasp the complexities of eligibility criteria and to write effective applications that meet the criteria of funding bodies.
-
-This solution is to create an AI-powered Grant and Funding Finder using IBM Cloud Lite services and IBM Granite. The system automatically collects funding opportunities from various trusted sources, evaluates eligibility criteria and suggests the most relevant funding opportunities based on a start-up's industry, growth stage, geographical location, and business objectives. It also helps users create customized application drafts, proposal summaries and application checklists, saving application time.
-
-The platform makes the discovery and use of funds much easier, allowing startups to concentrate on the development of the businesses and the innovation process, and thus increase their chances of finding the right funds.
